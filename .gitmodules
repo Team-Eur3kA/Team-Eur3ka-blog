@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Team-Eur3kA/Team-Eur3kA.github.io.git
+	branch = master
+[submodule "themes/hugo-tranquilpeak-theme"]
+	path = themes/hugo-tranquilpeak-theme
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
