@@ -15,8 +15,9 @@ keywords:
 - writeup
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
-thumbnailImage: https://quals.codegate.kr/main.png
-coverImage: https://quals.codegate.kr/main.png
+thumbnailImage: https://ctftime.org/media/cache/72/e3/72e30fa751acf026cda1e67366dedc3e.png
+coverImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
+
 metaAlignment: center
 ---
 <!--more-->
