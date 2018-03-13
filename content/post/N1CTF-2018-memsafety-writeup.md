@@ -24,6 +24,9 @@ metaAlignment: center
 # N1CTF 2018 memsafety writeup
 
 ## Overview
+Me Anciety played this N1CTF as a member of Team Eur3ka. During the CTF I solved challenge
+memsafety and helped my team mate @Neo solved NetworkCard challenge.
+
 This is actually a quite interesting challenge for it uses my favorite `Rust`!
 
 After unzipping, there is a binary along with a `.rs` file and a libc.
