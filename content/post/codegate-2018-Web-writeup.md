@@ -1,3 +1,27 @@
+---
+title: "CodeGate 2018 Web Writeup"
+date: 2018-02-06
+categories:
+- codegate
+- codegate-2018
+- writeup
+tags:
+- codegate
+- codegate-2018
+- writeup
+keywords:
+- codegate
+- codegate-2018
+- writeup
+autoThumbnailImage: false
+thumbnailImagePosition: "top"
+thumbnailImage: https://ctftime.org/media/cache/72/e3/72e30fa751acf026cda1e67366dedc3e.png
+coverImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
+
+metaAlignment: center
+---
+<!--more-->
+
 # codegate 2018 Web writeup
 
 ## Simple CMS
