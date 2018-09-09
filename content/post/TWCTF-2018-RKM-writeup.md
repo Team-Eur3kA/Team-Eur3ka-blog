@@ -51,7 +51,7 @@ So, I know some of the teams just did it by bruteforce the whole memory expansio
 
 Now, we know that flag must be in ram somewhere, but we know nothing about ramfs (at least I know nothing about it during CTF..).
 
-I searched some documentation, and it helped, like [like one](https://wiki.debian.org/ramf://wiki.debian.org/ramfs):
+I searched some documentation, and it helped, like [this one](https://wiki.debian.org/ramfs):
 
 > Ramfs is a very simple FileSystem that exports Linux's disk cacheing mechanisms (the page cache and dentry cache) as a dynamically resizable ram-based filesystem.
 
